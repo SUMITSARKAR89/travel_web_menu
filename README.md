@@ -1,7 +1,7 @@
 This is for begginer and simple way How to add menu on index java script.
 some impotant elements had shown by this repository.
 
-how to create sticky on header
+how to create sticky  header
 <style>
 header{
     display: flex;
