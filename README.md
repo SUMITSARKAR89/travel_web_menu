@@ -2,7 +2,8 @@ This is for begginer and simple way How to add menu on index java script.
 some impotant elements had shown by this repository.
 
 how to create sticky  header
-<style>
+
+    
 header{
     display: flex;
     align-items: center;
@@ -25,7 +26,7 @@ header.sticky{
     backdrop-filter: blur(48px);
     padding: 10px 10%;
 }
-  </style>
+  
 
 <script>
 const head = document.querySelector("header");
